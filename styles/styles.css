@@ -1,0 +1,19 @@
+p{
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#top{
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+body{
+    background-color:#f5f5dc ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid cadetblue;
+    padding: 20px;}
+
